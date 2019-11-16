@@ -1,0 +1,4 @@
+进入终端后输入以下指令
+   cd mjpg-streamer/mjpg-streamer-exprimental
+
+  sudo ./start.sh
